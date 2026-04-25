@@ -14,7 +14,7 @@ import { homepageFaqs } from "@/lib/homepage-faqs";
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Sharma & Associates — Advocates & Legal Consultants",
+  "name": "Hanumanta rao & Associates — Advocates & Legal Consultants",
   "image": "https://sharmaandassociates.in/og-image.jpg",
   "priceRange": "₹₹",
   "telephone": "+919876543210",

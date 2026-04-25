@@ -20,11 +20,11 @@ const playfair = Playfair_Display({
 
 export const metadata = {
   title: {
-    default: "Sharma & Associates | Advocates & Legal Consultants | Hyderabad",
-    template: "%s | Sharma & Associates",
+    default: "Hanumanta rao & Associates | Advocates & Legal Consultants | Hyderabad",
+    template: "%s | Hanumanta rao & Associates",
   },
   description:
-    "Sharma & Associates is a full-service law firm in Hyderabad, Telangana, with over 20 years of experience in corporate law, property disputes, criminal defence, civil litigation, and family law. Registered with the Bar Council of Telangana.",
+    "Hanumanta rao & Associates is a full-service law firm in Hyderabad, Telangana, with over 20 years of experience in corporate law, property disputes, criminal defence, civil litigation, and family law. Registered with the Bar Council of Telangana.",
   keywords: [
     "lawyer hyderabad",
     "advocate hyderabad",
@@ -41,7 +41,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    siteName: "Sharma & Associates",
+    siteName: "Hanumanta rao & Associates",
   },
 };
 

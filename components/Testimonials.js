@@ -8,7 +8,7 @@ const testimonials = [
     location: "Secunderabad",
     matter: "Corporate Law",
     quote:
-      "Sharma & Associates handled our company's shareholder dispute with exceptional competence. Adv. Hanumanta Rao understood the commercial realities of our situation from the very first meeting. The matter was resolved in our favour within four months — faster than we had ever anticipated.",
+      "Hanumanta rao & Associates handled our company's shareholder dispute with exceptional competence. Adv. Hanumanta Rao understood the commercial realities of our situation from the very first meeting. The matter was resolved in our favour within four months — faster than we had ever anticipated.",
     color: "bg-primary",
   },
   {
@@ -17,7 +17,7 @@ const testimonials = [
     location: "Kukatpally, Hyderabad",
     matter: "Family Law",
     quote:
-      "Going through a family matter is never easy, but the team at Sharma & Associates treated me with genuine dignity and care. They explained each step patiently, kept me informed, and ensured my children's interests were protected throughout. I am truly grateful.",
+      "Going through a family matter is never easy, but the team at Hanumanta rao & Associates treated me with genuine dignity and care. They explained each step patiently, kept me informed, and ensured my children's interests were protected throughout. I am truly grateful.",
     color: "bg-secondary",
   },
   {
