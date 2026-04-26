@@ -60,7 +60,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-lg text-white/75 mb-10 max-w-xl leading-relaxed font-sans">
-            Sharma &amp; Associates has served individuals, families, and businesses across
+            Hanumanta rao &amp; Associates has served individuals, families, and businesses across
             Telangana for over two decades — with honesty, rigour, and the personal
             attention every client deserves.
           </p>

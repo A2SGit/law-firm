@@ -37,7 +37,7 @@ export const metadata = {
     "bar council telangana",
     "telangana high court advocate",
   ],
-  metadataBase: new URL("https://sharmaandassociates.in"),
+  metadataBase: new URL("https://hanumantarao.in"),
   openGraph: {
     type: "website",
     locale: "en_IN",

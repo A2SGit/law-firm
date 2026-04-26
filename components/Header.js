@@ -76,7 +76,7 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="flex-shrink-0 group">
               <span className="font-serif text-xl sm:text-2xl font-bold text-primary tracking-tight leading-tight">
-                Sharma<span className="text-secondary">&nbsp;&amp;&nbsp;</span>Associates
+                Hanumanta<span className="text-secondary">&nbsp;rao&nbsp;&amp;&nbsp;</span>Associates
               </span>
               <span className="block text-[10px] tracking-widest text-neutral-400 uppercase font-sans">
                 Advocates &amp; Legal Consultants

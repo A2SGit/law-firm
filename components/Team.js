@@ -280,7 +280,7 @@ export default function Team() {
             </p>
           </div>
           <a
-            href="mailto:careers@sharmaandassociates.in"
+            href="mailto:careers@hanumantarao.in"
             className="flex-shrink-0 inline-flex items-center gap-2 text-sm font-semibold text-primary border border-primary/20 hover:bg-primary hover:text-white px-5 py-2.5 rounded transition-all duration-200"
           >
             <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>

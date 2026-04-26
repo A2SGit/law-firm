@@ -15,7 +15,7 @@ const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Hanumanta rao & Associates — Advocates & Legal Consultants",
-  "image": "https://sharmaandassociates.in/og-image.jpg",
+  "image": "https://hanumantarao.in/og-image.jpg",
   "priceRange": "₹₹",
   "telephone": "+919876543210",
   "address": {
@@ -39,7 +39,7 @@ const localBusinessSchema = {
       "closes": "18:00",
     },
   ],
-  "url": "https://sharmaandassociates.in",
+  "url": "https://hanumantarao.in",
   "sameAs": [],
 };
 

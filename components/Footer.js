@@ -7,7 +7,7 @@ const WA_MESSAGE = encodeURIComponent(
 const WA_HREF = `https://wa.me/${WA_NUMBER}?text=${WA_MESSAGE}`;
 const PHONE_DISPLAY = "+91 98765 43210";
 const PHONE_HREF = "tel:+919876543210";
-const EMAIL = "contact@sharmaandassociates.in";
+const EMAIL = "contact@hanumantarao.in";
 
 const practiceAreas = [
   { label: "Corporate Law", href: "/practice-areas/corporate-law" },
@@ -64,7 +64,7 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="inline-block mb-4">
               <span className="font-serif text-xl font-bold tracking-tight leading-tight">
-                Sharma<span className="text-secondary">&nbsp;&amp;&nbsp;</span>Associates
+                Hanumanta<span className="text-secondary">&nbsp;rao&nbsp;&amp;&nbsp;</span>Associates
               </span>
               <span className="block text-[10px] tracking-widest text-white/50 uppercase font-sans mt-0.5">
                 Advocates &amp; Legal Consultants
@@ -177,7 +177,7 @@ export default function Footer() {
         {/* ── Bottom bar ── */}
         <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-xs text-white/40 text-center sm:text-left">
-            &copy; {new Date().getFullYear()} Sharma &amp; Associates — Advocates &amp; Legal Consultants. All rights reserved.
+            &copy; {new Date().getFullYear()} Hanumanta rao &amp; Associates — Advocates &amp; Legal Consultants. All rights reserved.
           </p>
           <p className="text-xs text-white/30 text-center sm:text-right max-w-sm">
             This website is for informational purposes only and does not constitute legal advice. Contacting us does not create an attorney–client relationship.

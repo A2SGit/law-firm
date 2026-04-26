@@ -55,7 +55,7 @@ export default async function PracticeAreaPage({ params }) {
               Practice Areas
             </Link>
             <p className="text-secondary text-sm font-semibold tracking-widest uppercase mb-3">
-              Sharma &amp; Associates
+              Hanumanta rao & Associates
             </p>
             <h1 className="text-4xl md:text-5xl font-serif font-bold text-white mb-4">
               {area.title}

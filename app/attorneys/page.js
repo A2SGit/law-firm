@@ -32,7 +32,7 @@ export default function AttorneysIndex() {
           </h1>
           <div className="h-0.5 w-16 bg-secondary mx-auto mb-6" />
           <p className="text-lg text-white/75 max-w-2xl mx-auto leading-relaxed">
-            Every client at Sharma &amp; Associates is assigned a dedicated advocate
+            Every client at Hanumanta rao & Associates is assigned a dedicated advocate
             — and every matter is personally reviewed by a Senior Counsel.
           </p>
         </div>

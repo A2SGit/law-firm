@@ -79,7 +79,7 @@ export default function TrustBadges() {
             {`"Fiat justitia ruat caelum — Let justice be done though the heavens fall."`}
           </p>
           <p className="text-white/30 text-xs mt-2 font-sans">
-            The guiding principle of every advocate at Sharma &amp; Associates
+            The guiding principle of every advocate at Hanumanta rao &amp; Associates
           </p>
         </motion.div>
       </div>

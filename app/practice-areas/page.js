@@ -29,7 +29,7 @@ export default function PracticeAreasIndex() {
           </h1>
           <div className="h-0.5 w-16 bg-secondary mx-auto mb-6" />
           <p className="text-lg text-white/75 max-w-2xl mx-auto leading-relaxed">
-            Sharma &amp; Associates provides senior-led legal counsel across five
+            Hanumanta rao &amp; Associates provides senior-led legal counsel across five
             specialised areas of law — serving individuals, families, and businesses
             across Hyderabad and Telangana.
           </p>

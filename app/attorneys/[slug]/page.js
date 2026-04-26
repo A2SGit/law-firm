@@ -61,7 +61,7 @@ export default async function AttorneyProfilePage({ params }) {
             {/* Name block */}
             <div>
               <span className="inline-block text-xs font-bold tracking-widest text-secondary uppercase mb-2">
-                {attorney.designation} · Sharma &amp; Associates
+                {attorney.designation} · Hanumanta rao &amp; Associates
               </span>
               <h1 className="text-3xl md:text-4xl font-serif font-bold text-white mb-1">
                 {attorney.name}

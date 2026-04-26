@@ -7,7 +7,7 @@ export const metadata = {
     "law firm hitech city hyderabad",
     "legal consultation hyderabad",
     "advocate hyderabad contact",
-    "sharma associates hyderabad",
+    "hanumanta rao associates hyderabad",
   ],
 };
 

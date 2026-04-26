@@ -11,7 +11,7 @@ const WA_MESSAGE = encodeURIComponent(
 const WA_HREF = `https://wa.me/${WA_NUMBER}?text=${WA_MESSAGE}`;
 const PHONE_HREF = "tel:+919876543210";
 const PHONE_DISPLAY = "+91 98765 43210";
-const EMAIL = "contact@sharmaandassociates.in";
+const EMAIL = "contact@hanumantarao.in";
 
 const CASE_TYPES = [
   "Corporate Law",

@@ -1,7 +1,7 @@
 import { practiceAreas } from "@/lib/practice-areas-data";
 import { attorneys } from "@/lib/attorneys-data";
 
-const BASE = "https://sharmaandassociates.in";
+const BASE = "https://hanumantarao.in";
 
 export default function sitemap() {
   const staticRoutes = [
